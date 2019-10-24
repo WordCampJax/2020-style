@@ -649,18 +649,18 @@ h1,h2,h3,h4 {
 	margin-bottom: 1.5rem;
 	margin-top: 0;
 	font-family: mostra-nuova-alt-d, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
-	font-weight: 700;
+	font-weight: 500;
 	line-height: 1;
 	text-transform: uppercase;
 }
 
 h1 {
-	font-size: 2.44141em;
+	font-size: 22px;
 	color: #02647e;
 }
 
 h2 {
-	font-size: 1.95312em;
+	font-size: 18px;
 }
 
 h2,h3 {
@@ -668,11 +668,11 @@ h2,h3 {
 }
 
 h3 {
-	font-size: 1.5625em;
+	font-size: 16px;
 }
 
 h4 {
-	font-size: 1.25em;
+	font-size: 14px;
 	color: rgba(29,36,42,.9);
 	letter-spacing: .025em;
 }
