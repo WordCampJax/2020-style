@@ -4165,7 +4165,7 @@ section#wcb_sponsors-3:after {
 	margin-bottom: 0;
 }
 
-/*	#header-widget-1 label.wcorg-mailchimp-name,
+	#header-widget-1 label.wcorg-mailchimp-name,
 	#header-widget-1 label.wcorg-mailchimp-email {
 		clear: none;
 		float: left;
@@ -4179,7 +4179,8 @@ section#wcb_sponsors-3:after {
 		float: left;
 		width: 30%;
 		margin-right: 2em;
-	} */
+	} 
+
 @media (min-width: 48em) {
 	#header-widget-1 .widget_wcorg_mailchimp_wiget {
 		margin-top: 2rem;
