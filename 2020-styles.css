@@ -648,7 +648,7 @@ body {
 h1,h2,h3,h4 {
 	margin-bottom: 1.5rem;
 	margin-top: 0;
-	font-family: mostra-nuova-alt-d, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+	font-family: circus, sans-serif;
 	font-weight: 500;
 	line-height: 1;
 	text-transform: uppercase;
@@ -661,14 +661,12 @@ h1 {
 
 h2 {
 	font-size: 18px;
-}
-
-h2,h3 {
 	color: #02647e;
 }
 
 h3 {
 	font-size: 16px;
+	color:#7a0c16;
 }
 
 h4 {
