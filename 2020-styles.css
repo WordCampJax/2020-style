@@ -4186,6 +4186,7 @@ section#wcb_sponsors-3:after {
 		margin-top: 2rem;
 		border-top: 6px double #e36565;
 		padding: 1rem 0 5rem;
+		max-width: 1260px;
 	}
 	
 	#header-widget-1 .widget_wcorg_mailchimp_wiget h2 {
@@ -4220,7 +4221,6 @@ section#wcb_sponsors-3:after {
 													#header-widget-1 .widget_wcorg_mailchimp_wiget input[type="text"] {
 		clear: none;
 		float: left;
-		width: 30%;
 		margin-right: 2em;
 	}
 }
